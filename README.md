@@ -36,17 +36,17 @@ O projeto fornece uma avaliação do desempenho do modelo, incluindo:
 
 A acurácia mostra a proporção de investidores classificados corretamente em relação ao total.
 
-A precisão mede a proporção de investidores classificados como um perfil específico que realmente pertence a esse perfil.
+A precisão mede a proporção de investidores classificados como um perfil específico que realmente pertence a esse perfil.  
 Exemplo alternativo: De todos os comentários classificados como positivos, qual percentual realmente é positivo?
 
-O recall mede a proporção de investidores que pertencem a um perfil específico e foram corretamente classificados como tal.
+O recall mede a proporção de investidores que pertencem a um perfil específico e foram corretamente classificados como tal.  
 Exemplo alternativo: De todos os comentários que realmente são positivos, qual percentual é identificado corretamente pelo modelo?
 
 
 ## Meu Aprendizado
 
-1 - Foi um projeto desafiador, especialmente por não poder usar determinadas bibliotecas, saí com uma visão de que posso fazer funções pra qualquer coisa.
-2 - Pude ver por dentro como é a estrutura de um KNN, fazer na mão foi um aprendizado e tanto.
+1 - Foi um projeto desafiador, especialmente por não poder usar determinadas bibliotecas, saí com uma visão de que posso fazer funções pra qualquer coisa.  
+2 - Pude ver por dentro como é a estrutura de um KNN, fazer na mão foi um aprendizado e tanto.  
 3 - O "por quê" é muito importante na definição dos parâmetros. A visão do negócio era proteger sempre os conservadores e correr atrás de bons números nesta categoria, que é o que foi de acordo com a proposta do negócio.
 
 ## Requisitos
