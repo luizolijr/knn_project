@@ -37,10 +37,10 @@ O projeto fornece uma avaliação do desempenho do modelo, incluindo:
 A acurácia mostra a proporção de investidores classificados corretamente em relação ao total.
 
 A precisão mede a proporção de investidores classificados como um perfil específico que realmente pertence a esse perfil.
-    Exemplo alternativo: De todos os comentários classificados como positivos, qual percentual realmente é positivo?
+Exemplo alternativo: De todos os comentários classificados como positivos, qual percentual realmente é positivo?
 
 O recall mede a proporção de investidores que pertencem a um perfil específico e foram corretamente classificados como tal.
-    Exemplo alternativo: De todos os comentários que realmente são positivos, qual percentual é identificado corretamente pelo modelo?
+Exemplo alternativo: De todos os comentários que realmente são positivos, qual percentual é identificado corretamente pelo modelo?
 
 
 ## Meu Aprendizado
