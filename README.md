@@ -1,3 +1,5 @@
+![image](https://github.com/luizolijr/knn_project/assets/42130256/01a1a4a0-758d-4d9d-9cfd-b77e53ea4637)
+
 # Classificação de Perfil de Investidores
 
 Este é um projeto de classificação de perfil de investidores usando algoritmos de aprendizado de máquina. O projeto é implementado em Python e faz uso de bibliotecas como Pandas.
