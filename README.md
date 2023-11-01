@@ -17,7 +17,7 @@ O projeto utiliza dois conjuntos de dados: `data` e `no_class`. O conjunto `data
 
 O algoritmo de classificação utilizado neste projeto é baseado na distância euclidiana entre os investimentos de um investidor desconhecido e os investimentos de investidores com perfis conhecidos. O perfil do investidor desconhecido é determinado com base nos K investidores mais próximos em termos de distância euclidiana.
 
-## Uso
+## Uso mini_projeto_knn.ipynb
 
 Para usar o projeto, siga estas etapas:
 
@@ -25,6 +25,14 @@ Para usar o projeto, siga estas etapas:
 2. Execute o código Python.
 3. O código classificará os investidores do conjunto `no_class` com base nos investidores do conjunto `data`.
 4. O resultado será apresentado em um DataFrame do Pandas com os perfis dos investidores no conjunto `no_class`.
+
+## Uso projeto_v2.py
+
+Atualização: Adicionado parte "gráfica" com streamlit, assim podemos manipular e filtrar algumas informações.
+
+1. Instale as devidas bibliotecas
+2. No caso do windows, usei o terminal do anaconda e naveguei até a pasta do projeto.
+3. Agora digite o comando "streamlit run projeto_v2.py" e o projeto abrirá em seu navegador.
 
 ## Resultado
 
@@ -62,3 +70,7 @@ Sinta-se à vontade para contribuir com este projeto, abrir problemas ou enviar 
 ---
 
 [Luiz Antônio]
+
+
+
+
